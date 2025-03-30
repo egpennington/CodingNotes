@@ -1,0 +1,120 @@
+# Frontend Job interview tips
+
+## Behavior questions wheel
+[ https://wheelofnames.com/r9c-ush ]
+
+## Technical questions
+1. what are falsey values in JavaScript?
+
+2. What are the differences between const, let and var?
+
+3. How does == vs === differ?
+
+4. What is the difference between undefined and null?
+
+5. What are some JavaScript data types?
+
+6. What do the spread and rest operators do?
+
+7. What is and why might you destructure an object or array?
+
+8. What are some CSS selectors and how d o they differ?
+
+9. What is Git? Why do you use it? What are some common commands you use?
+[ https://docs.github.com/en/get-started/git-basics/set-up-git ]
+
+10. What is Agile? What is Scrum?
+[ https://scrumguides.org/ ]
+
+11. What is responsive design and how might you implement it?
+
+12. What are some issues with numbers in JavaScript you may have to protect against?
+
+13. What are promises and why might you use them?
+[ https://jsonplaceholder.typicode.com/ ]
+
+14. What is pass by reference and how does it differ from pass by value?
+
+## JavaScript Knowledge map
+[ https://learnjavascript.online/knowledge-map.html ]
+
+## Data structures
+strings: .split(), .toUpperCase(), .endsWith()
+
+Arrays: .join(), slice(), .map(), .sort(), .includes(), .filter(), .flat(), .reduce(), .push()
+
+push() v pop() and shift() v unshift() was explained well in the scrim.  pop and shift are shorter words so subtracts.  Good memory aid.
+
+## JavaScript for React: 10 Concepts
+[ https://v1.scrimba.com/scrim/co9cb4993bc178ba4582d7c08 ]
+
+## Debug JavaScript 
+[ https://developer.chrome.com/docs/devtools/javascript ]
+
+## Convert colors
+[ https://convertacolor.com/ ]
+
+## README checklist
+[ https://github.com/ddbeck/readme-checklist/blob/main/checklist.md ]
+
+## Scrimba Notes
+[ https://scrimba-code-notes.netlify.app/ ]
+
+## React Icons
+[ https://react-icons.github.io/react-icons/ ]
+
+## Learn React with One project - use this to build react muscle memory
+[ https://www.youtube.com/watch?v=Rh3tobg7hEo&t=450s ]
+
+## solid review of all React basics
+[ https://react.dev/learn ]
+
+## Learn Git branching
+[ https://learngitbranching.js.org/ ]
+
+## Open Source projects
+[ https://www.wearedevelopers.com/en/magazine/265/open-source-projects-for-developers-to-contribute ]
+
+## Publish tech articals
+[ https://dev.to/ ]
+
+## LinkedIn Course ??
+[ https://www.linkedin.com/learning/linkedin-profiles-for-technical-professionals/why-use-linkedin-to-get-you-a-job ]
+
+## paul o's ??
+[ https://www.notion.so/Scrimba-Bootcamp-33dfd67a626f4c3bbc1e865ac609e62b?pvs=4 ]
+[ https://modular.hashnode.dev/rethinking-javascript-array-methods ] js array methods
+[ https://stackblitz.com/edit/workshop-js-array-methods-p3-jan2024?file=workshop1%2Fexamples.js ] stackblitz examples
+"In the StackBlitz project, I've included some exercises so you can try using some of the Array methods presented in the methods.txt file.  I suggest everyone interesting in understanding Array methods... to try some of the exercises in delete.js and eval.js files... using console.log to see what's being returned and what changes were made to the example numbers array.  You may be surprised with some of the results. "
+
+## Time Blocking
+[ https://www.youtube.com/watch?v=tFXvzqQ8R1I ]
+
+## Three.js workshop
+[ https://www.canva.com/design/DAGBkmCirFA/ic3lir-4OhGIWpljlP7hfQ/view?utm_content=DAGBkmCirFA&utm_campaign=designshare&utm_medium=link&utm_source=editor#1 ]
+
+## Virtual meetup
+[ https://us02web.zoom.us/rec/play/ltO-SeUf3gKy4lm-1VG1u0b3sNKSd5G5qSBJQLR5AdSGaApEaheRkKjSJCUfH2GTWIN_bHE-euW6uffR.qN37bbrNnGcnCtRr?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FHxT5oHWXqfDLIrst3C9DwEdjSqtuk2wMMc_VCdv1qfe1VOnf1hvKbhJn-hu7z9M.ACXPhvLtyA5KHmTr ]
+
+## Free code camp Dr. Chuck C programming - 18 hours
+[ https://www.freecodecamp.org/news/complete-c-programming-course-from-dr-chuck/ ]
+
+## Scrimba meetup recordings
+[ https://different-marmoset-f7b.notion.site/Public-Guests-for-Virtual-Meetups-94b3611c359b449c9c525804743c3abb ]
+
+## Intro to Kanban
+[ https://www.youtube.com/watch?v=IYt_IjLFGCY ]
+
+## Send email from code
+[ https://www.emailjs.com/ ]
+[ https://formspree.io/ ]
+
+## JavaScript modules
+[ https://www.freecodecamp.org/news/javascript-modules-explained-with-examples/ ]
+
+
+
+
+
+
+

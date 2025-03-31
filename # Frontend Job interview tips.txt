@@ -1,4 +1,4 @@
-# Frontend Job interview tips
+# Programming Notes
 
 ## Behavior questions wheel
 [ Question wheel ](https://wheelofnames.com/r9c-ush
@@ -21,6 +21,14 @@
 13. What are promises and why might you use them?
 [ https://jsonplaceholder.typicode.com/ ]
 14. What is pass by reference and how does it differ from pass by value?
+
+## Interview Prep
+[Grind 75 leet code](https://www.techinterviewhandbook.org/grind75/?weeks=10&difficulty=Easy&difficulty=Medium&hours=6)
+>Grind 75 is a curated list of 169 LeetCode questions, ranked by popularity, frequency, 
+and difficulty. Designed for spaced repetition, it ensures well-rounded practice across 
+key topics. With a focus on Medium-level questions (most common in interviews), it’s 
+perfect for 6-10 weeks of prep. No premium questions required—just focus on mastering 
+patterns and building fundamentals. 
 
 ## JavaScript Knowledge map
 [Knowledge Map](https://learnjavascript.online/knowledge-map.html)
@@ -47,7 +55,7 @@
 ## README checklist
 [Checklist](https://github.com/ddbeck/readme-checklist/blob/main/checklist.md)
 
-## Programming Notes
+## Other's Collection of Programming Notes
 [Coding Notes by Rae](https://scrimba-code-notes.netlify.app/)
 
 [Chingu's Andrea notes](https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m?ref=dailydev)
@@ -69,6 +77,8 @@
 
 ## Publish tech articals
 [Tech articals](https://dev.to/)
+
+[Chingu article on wrinting blogs[(https://refactoringenglish.com/chapters/write-blog-posts-developers-read/)
 
 ## LinkedIn Course ??
 [LinkedIn course](https://www.linkedin.com/learning/linkedin-profiles-for-technical-professionals/why-use-linkedin-to-get-you-a-job)
@@ -107,3 +117,6 @@ You may be surprised with some of the results.
 
 ## JavaScript modules
 [Free code camp vid](https://www.freecodecamp.org/news/javascript-modules-explained-with-examples/)
+
+## Algos
+[Cheat sheet](https://photonlines.substack.com/p/visual-focused-algorithms-cheat-sheet)

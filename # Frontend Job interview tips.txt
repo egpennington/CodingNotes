@@ -5,34 +5,21 @@
 
 ## Technical questions
 1. what are falsey values in JavaScript?
-
 2. What are the differences between const, let and var?
-
 3. How does == vs === differ?
-
 4. What is the difference between undefined and null?
-
 5. What are some JavaScript data types?
-
 6. What do the spread and rest operators do?
-
 7. What is and why might you destructure an object or array?
-
 8. What are some CSS selectors and how d o they differ?
-
 9. What is Git? Why do you use it? What are some common commands you use?
 [ https://docs.github.com/en/get-started/git-basics/set-up-git ]
-
 10. What is Agile? What is Scrum?
 [ https://scrumguides.org/ ]
-
 11. What is responsive design and how might you implement it?
-
 12. What are some issues with numbers in JavaScript you may have to protect against?
-
 13. What are promises and why might you use them?
 [ https://jsonplaceholder.typicode.com/ ]
-
 14. What is pass by reference and how does it differ from pass by value?
 
 ## JavaScript Knowledge map

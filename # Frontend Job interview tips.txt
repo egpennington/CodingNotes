@@ -85,7 +85,10 @@ patterns and building fundamentals.
 
 ## Array practice
 [?????](https://www.notion.so/Scrimba-Bootcamp-33dfd67a626f4c3bbc1e865ac609e62b?pvs=4)
+
 [js array methods](https://modular.hashnode.dev/rethinking-javascript-array-methods)
+> There are currently 43 JavaScript Array methods listed at the MDN website. This discussion includes about 25 of them.
+
 [stackblitz examples](https://stackblitz.com/edit/workshop-js-array-methods-p3-jan2024?file=workshop1%2Fexamples.js)
 > In the StackBlitz project, I've included some exercises so you can try 
 using some of the Array methods presented in the methods.txt file.  I suggest

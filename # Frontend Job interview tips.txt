@@ -1,7 +1,7 @@
 # Frontend Job interview tips
 
 ## Behavior questions wheel
-[ https://wheelofnames.com/r9c-ush ]
+[ Question wheel ](https://wheelofnames.com/r9c-ush
 
 ## Technical questions
 1. what are falsey values in JavaScript?
@@ -23,85 +23,87 @@
 14. What is pass by reference and how does it differ from pass by value?
 
 ## JavaScript Knowledge map
-[ https://learnjavascript.online/knowledge-map.html ]
+[Knowledge Map](https://learnjavascript.online/knowledge-map.html)
 
 ## Data structures
-strings: .split(), .toUpperCase(), .endsWith()
+**Strings:**
+`.split()`, `.toUpperCase()`, `.endsWith()`
 
-Arrays: .join(), slice(), .map(), .sort(), .includes(), .filter(), .flat(), .reduce(), .push()
+**Arrays:**
+`.join()`, `slice()`, `.map()`, `.sort()`, `.includes()`, `.filter()`, `.flat()`, `.reduce()`, `.push()`
 
-push() v pop() and shift() v unshift() was explained well in the scrim.  pop and shift are shorter words so subtracts.  Good memory aid.
+> push() v pop() and shift() v unshift() was explained well in the scrim.  
+> pop and shift are shorter words so subtracts.  Good memory aid.
 
 ## JavaScript for React: 10 Concepts
-[ https://v1.scrimba.com/scrim/co9cb4993bc178ba4582d7c08 ]
+[10 concepts](https://v1.scrimba.com/scrim/co9cb4993bc178ba4582d7c08)
 
 ## Debug JavaScript 
-[ https://developer.chrome.com/docs/devtools/javascript ]
+[dubug vid](https://developer.chrome.com/docs/devtools/javascript)
 
 ## Convert colors
-[ https://convertacolor.com/ ]
+[Color Converter](https://convertacolor.com/)
 
 ## README checklist
-[ https://github.com/ddbeck/readme-checklist/blob/main/checklist.md ]
+[Checklist](https://github.com/ddbeck/readme-checklist/blob/main/checklist.md)
 
-## Scrimba Notes
-[ https://scrimba-code-notes.netlify.app/ ]
+## Programming Notes
+[Coding Notes by Rae](https://scrimba-code-notes.netlify.app/)
+
+[Chingu's Andrea notes](https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m?ref=dailydev)
 
 ## React Icons
-[ https://react-icons.github.io/react-icons/ ]
+[Icons](https://react-icons.github.io/react-icons/)
 
 ## Learn React with One project - use this to build react muscle memory
-[ https://www.youtube.com/watch?v=Rh3tobg7hEo&t=450s ]
+[React Project](https://www.youtube.com/watch?v=Rh3tobg7hEo&t=450s)
 
 ## solid review of all React basics
-[ https://react.dev/learn ]
+[React basics](https://react.dev/learn)
 
 ## Learn Git branching
-[ https://learngitbranching.js.org/ ]
+[Git branching](https://learngitbranching.js.org/)
 
 ## Open Source projects
-[ https://www.wearedevelopers.com/en/magazine/265/open-source-projects-for-developers-to-contribute ]
+[Open source](https://www.wearedevelopers.com/en/magazine/265/open-source-projects-for-developers-to-contribute)
 
 ## Publish tech articals
-[ https://dev.to/ ]
+[Tech articals](https://dev.to/)
 
 ## LinkedIn Course ??
-[ https://www.linkedin.com/learning/linkedin-profiles-for-technical-professionals/why-use-linkedin-to-get-you-a-job ]
+[LinkedIn course](https://www.linkedin.com/learning/linkedin-profiles-for-technical-professionals/why-use-linkedin-to-get-you-a-job)
 
-## paul o's ??
-[ https://www.notion.so/Scrimba-Bootcamp-33dfd67a626f4c3bbc1e865ac609e62b?pvs=4 ]
-[ https://modular.hashnode.dev/rethinking-javascript-array-methods ] js array methods
-[ https://stackblitz.com/edit/workshop-js-array-methods-p3-jan2024?file=workshop1%2Fexamples.js ] stackblitz examples
-"In the StackBlitz project, I've included some exercises so you can try using some of the Array methods presented in the methods.txt file.  I suggest everyone interesting in understanding Array methods... to try some of the exercises in delete.js and eval.js files... using console.log to see what's being returned and what changes were made to the example numbers array.  You may be surprised with some of the results. "
+## Array practice
+[?????](https://www.notion.so/Scrimba-Bootcamp-33dfd67a626f4c3bbc1e865ac609e62b?pvs=4)
+[js array methods](https://modular.hashnode.dev/rethinking-javascript-array-methods)
+[stackblitz examples](https://stackblitz.com/edit/workshop-js-array-methods-p3-jan2024?file=workshop1%2Fexamples.js)
+> In the StackBlitz project, I've included some exercises so you can try 
+using some of the Array methods presented in the methods.txt file.  I suggest
+everyone interesting in understanding Array methods... to try some of the 
+exercises in delete.js and eval.js files... using console.log to see what's 
+being returned and what changes were made to the example numbers array.  
+You may be surprised with some of the results.
 
 ## Time Blocking
-[ https://www.youtube.com/watch?v=tFXvzqQ8R1I ]
+[Time blocking vid](https://www.youtube.com/watch?v=tFXvzqQ8R1I)
 
 ## Three.js workshop
-[ https://www.canva.com/design/DAGBkmCirFA/ic3lir-4OhGIWpljlP7hfQ/view?utm_content=DAGBkmCirFA&utm_campaign=designshare&utm_medium=link&utm_source=editor#1 ]
+[three.js](https://www.canva.com/design/DAGBkmCirFA/ic3lir-4OhGIWpljlP7hfQ/view?utm_content=DAGBkmCirFA&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
 
-## Virtual meetup
-[ https://us02web.zoom.us/rec/play/ltO-SeUf3gKy4lm-1VG1u0b3sNKSd5G5qSBJQLR5AdSGaApEaheRkKjSJCUfH2GTWIN_bHE-euW6uffR.qN37bbrNnGcnCtRr?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FHxT5oHWXqfDLIrst3C9DwEdjSqtuk2wMMc_VCdv1qfe1VOnf1hvKbhJn-hu7z9M.ACXPhvLtyA5KHmTr ]
+## Virtual meetups
+[Meetup Guests](https://different-marmoset-f7b.notion.site/Public-Guests-for-Virtual-Meetups-94b3611c359b449c9c525804743c3abb)
+
+[Shaundai Person: Sr Software Engineer, Netflix](https://us02web.zoom.us/rec/play/ltO-SeUf3gKy4lm-1VG1u0b3sNKSd5G5qSBJQLR5AdSGaApEaheRkKjSJCUfH2GTWIN_bHE-euW6uffR.qN37bbrNnGcnCtRr?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FHxT5oHWXqfDLIrst3C9DwEdjSqtuk2wMMc_VCdv1qfe1VOnf1hvKbhJn-hu7z9M.ACXPhvLtyA5KHmTr)
 
 ## Free code camp Dr. Chuck C programming - 18 hours
-[ https://www.freecodecamp.org/news/complete-c-programming-course-from-dr-chuck/ ]
-
-## Scrimba meetup recordings
-[ https://different-marmoset-f7b.notion.site/Public-Guests-for-Virtual-Meetups-94b3611c359b449c9c525804743c3abb ]
+[C Programming](https://www.freecodecamp.org/news/complete-c-programming-course-from-dr-chuck/)
 
 ## Intro to Kanban
-[ https://www.youtube.com/watch?v=IYt_IjLFGCY ]
+[Kanban vid](https://www.youtube.com/watch?v=IYt_IjLFGCY)
 
 ## Send email from code
-[ https://www.emailjs.com/ ]
-[ https://formspree.io/ ]
+[emailjs site](https://www.emailjs.com/)
+[form spree site](https://formspree.io/)
 
 ## JavaScript modules
-[ https://www.freecodecamp.org/news/javascript-modules-explained-with-examples/ ]
-
-
-
-
-
-
-
+[Free code camp vid](https://www.freecodecamp.org/news/javascript-modules-explained-with-examples/)

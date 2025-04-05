@@ -121,5 +121,8 @@ You may be surprised with some of the results.
 ## JavaScript modules
 [Free code camp vid](https://www.freecodecamp.org/news/javascript-modules-explained-with-examples/)
 
+## Random photo display
+[The Lorum Ipsum for photos](<img src="https://picsum.photos/600/600" alt="Random" />
+
 ## Algos
 [Cheat sheet](https://photonlines.substack.com/p/visual-focused-algorithms-cheat-sheet)

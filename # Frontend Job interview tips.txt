@@ -126,3 +126,6 @@ You may be surprised with some of the results.
 
 ## Algos
 [Cheat sheet](https://photonlines.substack.com/p/visual-focused-algorithms-cheat-sheet)
+
+## Web API's MDN
+[MDN](https://developer.mozilla.org/en-US/docs/Web/API)

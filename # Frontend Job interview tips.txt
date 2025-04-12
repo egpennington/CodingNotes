@@ -127,5 +127,8 @@ You may be surprised with some of the results.
 ## Algos
 [Cheat sheet](https://photonlines.substack.com/p/visual-focused-algorithms-cheat-sheet)
 
-## Web API's MDN
+## Web API's
 [MDN](https://developer.mozilla.org/en-US/docs/Web/API)
+[Random Dog Photos](https://dog.ceo/api/breeds/image/random)
+[Random Activities](https://apis.scrimba.com/bored/api/activity)
+

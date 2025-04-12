@@ -133,3 +133,6 @@ You may be surprised with some of the results.
 [Random Activities - Scrimba API](https://apis.scrimba.com/bored/api/activity)
 [Random Activities - Bored API](https://www.boredapi.com/api/activity)
 
+## CSS Style
+[Gradiants](https://uigradients.com/#Mello)
+

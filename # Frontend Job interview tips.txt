@@ -130,8 +130,16 @@ You may be surprised with some of the results.
 ## Web API's
 [MDN](https://developer.mozilla.org/en-US/docs/Web/API)
 [Random Dog Photos](https://dog.ceo/api/breeds/image/random)
-[Random Activities - Scrimba API](https://apis.scrimba.com/bored/api/activity)
+[Random Activities -  Scrimba API](https://apis.scrimba.com/bored/api/activity)
 [Random Activities - Bored API](https://www.boredapi.com/api/activity)
+[JSON Fake Data Placeholder](https://jsonplaceholder.typicode.com/)
+- /posts	100 posts
+- /comments	500 comments
+- /albums	100 albums
+- /photos	5000 photos
+- /todos	200 todos
+- /users	10 users
+[Scrimba's JSON placeholder](https://jsonplaceholder.typicode.com/) 
 
 ## CSS Style
 [Gradiants](https://uigradients.com/#Mello)

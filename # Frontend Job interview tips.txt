@@ -130,5 +130,6 @@ You may be surprised with some of the results.
 ## Web API's
 [MDN](https://developer.mozilla.org/en-US/docs/Web/API)
 [Random Dog Photos](https://dog.ceo/api/breeds/image/random)
-[Random Activities](https://apis.scrimba.com/bored/api/activity)
+[Random Activities - Scrimba API](https://apis.scrimba.com/bored/api/activity)
+[Random Activities - Bored API](https://www.boredapi.com/api/activity)
 

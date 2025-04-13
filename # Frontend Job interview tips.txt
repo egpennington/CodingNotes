@@ -144,3 +144,6 @@ You may be surprised with some of the results.
 ## CSS Style
 [Gradiants](https://uigradients.com/#Mello)
 
+## JSON Validator
+[JSON Online Validator](https://jsonlint.com/)
+

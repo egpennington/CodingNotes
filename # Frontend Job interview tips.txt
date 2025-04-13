@@ -111,8 +111,9 @@ You may be surprised with some of the results.
 ## Free code camp Dr. Chuck C programming - 18 hours
 [C Programming](https://www.freecodecamp.org/news/complete-c-programming-course-from-dr-chuck/)
 
-## Intro to Kanban
-[Kanban vid](https://www.youtube.com/watch?v=IYt_IjLFGCY)
+## Scrum, Kanban
+[Kanban vid](https://www.youtube.com/watch?v=IYt_IjLFGCY
+[Scrum, sprint with example](https://www.youtube.com/watch?v=SWDhGSZNF9M)
 
 ## Send email from code
 [emailjs site](https://www.emailjs.com/)

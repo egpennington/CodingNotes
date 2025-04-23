@@ -144,6 +144,11 @@ You may be surprised with some of the results.
 
 ## CSS Style
 [Gradiants](https://uigradients.com/#Mello)
+[CSS button generator](https://loading.io/button/generator)
+[CSS flex generator](https://cssflex-generator.netlify.app/)
+[CSS grid generator](https://cssgrid-generator.netlify.app/)
+[CSS gradient generator](https://cssgradient.io/)
+[CSS border-radius generator](https://9elements.github.io/fancy-border-radius/)
 
 ## JSON Validator
 [JSON Online Validator](https://jsonlint.com/)

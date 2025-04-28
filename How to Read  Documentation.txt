@@ -1,0 +1,63 @@
+✅ Step 1: Read With a Purpose (Don’t Skim Randomly)
+Before you even read, ask yourself:
+- “What problem am I trying to solve right now?”
+Don't read the whole page just to finish. You're not trying to learn all events.
+
+In your case:
+- “I need to hold the value the user types into my form input so I can send it to the database.”
+
+Now, when you read the doc, you're looking for:
+- What does useState return?
+- How do I update that value?
+- How does the input box connect to that state?
+
+✅ Step 2: Focus on the First Code Example (Always!)
+In the React: useState documentation, the very first example shows:
+
+` const [count, setCount] = useState(0); `
+
+** Don’t just read that — ask why:
+
+What is count here?
+→ (It’s the current value of the state.)
+
+What is setCount?
+→ (It’s the function that updates the state.)
+
+Why 0 inside useState(0)?
+→ (That’s the initial value of the state.)
+
+===> Now you’re actively reading instead of skimming.
+
+✅ Step 3: Look for These Sections in Every Doc Page:
+
+| Section Name                         | Why It Matters
+| ------------------------------------ | ---------------------------------------------------------
+| “Returns” or “Parameters”            | Tells you what the function gives back and how to use it.
+| “Examples”	                       | Shows real usage, but don’t just copy them — understand why they work.
+| “Notes” / “Usage” / “Best Practices” | Often explains common mistakes and how to avoid them.
+
+✅ Step 4: Actively Translate the Docs Into Your Own Words
+For example:
+After reading this:
+` const [count, setCount] = useState(0); `
+Say to yourself:
+“count is my variable, setCount is the function to change it, and I’m starting at zero.”
+
+✅ Then try it with your problem:
+
+` const [name, setName] = useState(""); `
+Say:
+“Okay, name holds my user’s name, and setName will update it whenever the user types into the form.”
+
+✅ Step 5: Look for “What Happens If” Questions
+While reading:
+- “What happens if I call setCount(5)?”
+- “Does the component automatically re-render?”
+- “What happens if I call useState() without a value?”
+
+This makes you engage with the docs like a teacher, not just a reader.
+
+✅ Final Golden Rule for Docs:
+* Don’t try to memorize — try to understand.
+* Don’t read the doc to finish it — read it to answer your own questions.

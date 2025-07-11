@@ -153,3 +153,9 @@ You may be surprised with some of the results.
 ## JSON Validator
 [JSON Online Validator](https://jsonlint.com/)
 
+## Shant's Whimsical Paths
+[AI Engineering Path] (https://whimsical.com/ai-engineer-path-module-summaries-462FhHEE2n13a9znz1yVJe)
+[Interview Prep Hour] (https://closed-emery-67c.notion.site/Interview-Preparation-Hour-Series-3a63fe4295bc427581e5eef54056d1db)
+[Advanced JavaScript] (https://whimsical.com/advanced-javascript-KEdSLZZ3vEyRmzkFJ1CXkq)
+[FrontEnd Career Path] (https://whimsical.com/frontend-career-path-module-summaries-DhWU21sDa693XnAbhL6DA7)
+

@@ -159,3 +159,50 @@ You may be surprised with some of the results.
 [Advanced JavaScript] (https://whimsical.com/advanced-javascript-KEdSLZZ3vEyRmzkFJ1CXkq)
 [FrontEnd Career Path] (https://whimsical.com/frontend-career-path-module-summaries-DhWU21sDa693XnAbhL6DA7)
 
+## Arrary Practice with map(), filter(), reduce(), forEach(), find()
+```// map(), filter(), reduce() forEach(), find()
+const c = console.log
+const names = ["alice", "bob", "charlie", "dave", "eve"];
+
+// cap each name
+const cap = names.map((i) => i[0].toUpperCase() + i.slice(1))
+
+// keep name > 3 letters
+const long = cap.filter((n) => n.length > 3)
+
+// count total letters
+const total = long.reduce((acc, l) => acc + l.length, 0)
+// c(total)
+
+// Print name with greeting
+const greet = long.map((n) => `Hello ${n}`)
+// or if don't need to keep
+// long.forEach((n) => c(`Hello ${n}`))
+
+// find first name starting with "C"
+const firstName = long.find((n) => n[0] === "C")
+c(firstName)
+
+const numbers = [3, 7, 12, 5, 8, 20, 1, 15];
+
+const challenge = numbers.map((n) => n * 2).filter((n) => n > 10).reduce((acc, n) => acc + n)
+// c(challenge)
+
+// double ecery number
+const double = numbers.map((item) => item * 2 )
+// console.log(double)
+
+// number > 10
+const greater = numbers.filter((item) => item > 10)
+// c(greater)
+
+// add up
+const addAll = numbers.reduce((acc, n) => acc + n, 0)
+// c(addAll)
+
+// numbers.forEach((item) => c(`this is no. ${item}`))
+
+const div = numbers.filter((item) => item % 5 === 0)
+// c(div)
+```
+

@@ -222,5 +222,76 @@ const div5 = numbers.find((n) => n % 5 === 0)
 // find all numbers disible by 5
 const allDiv = numbers.filter((n) => n % 5 === 0)
 c(allDiv)
-```
+
+const c = console.log
+
+const students = [
+  { name: "alice", score: 82 },
+  { name: "bob", score: 58 },
+  { name: "charlie", score: 91 },
+  { name: "dave", score: 45 },
+  { name: "eve", score: 76 }
+];
+
+// capitalize all the names
+const cap = students.map((n) => n.name[0].toUpperCase() + n.name.slice(1))
+//c(cap)
+
+// filter out students who scored below 60
+const below60 = students.filter((n) => n.score < 60)
+// c(below60)
+
+// filter out students who passed
+const pass = students.filter((n) => n.score > 60)
+// c(pass)
+
+// get total score of passing students
+const totalPass = students.filter((n) => n.score > 60).reduce((acc, i) => acc + i.score, 0)
+// const totalPass = pass.reduce((acc, i) => acc + i.score)
+// c(totalPass)
+
+// Print a message for each passing student
+// pass.forEach((n) => c(`Congratulations! ${n.name.toUpperCase()}`))
+// students.filter((n) => n.score > 60).forEach((n) => c(`Way to go! ${n.name.toUpperCase()}`))
+
+// Find the first student who scored above 90
+const first = students.find((s) => s.score > 90)
+// c(first)
+
+// Bonus
+// sort students by score
+const sorted = students.sort((a,b) => b.score - a.score)
+// c(sorted)
+
+// create a list of just names
+// const list = students.map((n) => `<li>${n.name[0]toUpperCase() + n.name.slice(1)}</li>`)
+// const list = cap.map((n) => `<li>${n}</li>`)
+
+const list = students.map((n) => (
+        `<li>${n.name[0].toUpperCase() + n.name.slice(1)}</li>`))
+// c(list)
+
+// find average score
+// tag each student with a pass or fail
+const tag = students.map((n) => {
+      if(n.score > 60) {
+        return `${n.name[0].toUpperCase() + n.name.slice(1)} You passed with ${n.score}`
+      } else {
+        return `${n.name[0].toUpperCase() + n.name.slice(1)} Failed, score: ${n.score}`
+      }
+})
+// c(tag)
+
+// return full objects with status Failed
+const tagged = students.map((n) =>( {
+      ...n,
+      status: n.score > 60 ? "Pass" : "Fail" 
+}))
+// c(tagged)
+
+// How many students passed?
+const numPass =  students.filter((n) => n.score > 60).length
+c(numPass)
+
+
 

@@ -1,5 +1,8 @@
 # Programming Notes
 
+## React Confetti 
+[React Confetti](https://github.com/alampros/react-confetti#readme)
+
 ## Behavior questions wheel
 [ Question wheel ](https://wheelofnames.com/r9c-ush
 
@@ -292,6 +295,7 @@ const tagged = students.map((n) =>( {
 // How many students passed?
 const numPass =  students.filter((n) => n.score > 60).length
 c(numPass)
+
 
 
 
